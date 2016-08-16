@@ -37,6 +37,7 @@ make install
 /usr/lib64/ocaml/soundtouch/soundtouch.cmi
 /usr/lib64/ocaml/soundtouch/soundtouch.cmxa
 /usr/lib64/ocaml/soundtouch/soundtouch.mli
+/usr/lib64/ocaml/soundtouch/soundtouch.cmx
 /usr/lib64/ocaml/soundtouch/libsoundtouch_stubs.a
 /usr/lib64/ocaml/stublibs/dllsoundtouch_stubs.so
 /usr/lib64/ocaml/stublibs/dllsoundtouch_stubs.so.owner
