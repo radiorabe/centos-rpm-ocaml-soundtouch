@@ -1,7 +1,9 @@
+%define debug_package %{nil}
+
 Name:     ocaml-soundtouch
 
 Version:  0.1.8
-Release:  1
+Release:  2
 Summary:  OCaml bindings for soundtouch
 License:  GPLv2+
 URL:      https://github.com/savonet/ocaml-soundtouch
@@ -47,5 +49,8 @@ OCAML bindings for soundtouch
 
 
 %changelog
+* Sun Nov 11 2018 Lucas Bickel <hairmare@rabe.ch> - 0.1.8-2
+- Fix Fedora build by disabling debug package
+
 * Sun Jul  3 2016 Lucas Bickel <hairmare@rabe.ch>
 - initial version, mostly stolen from https://www.openmamba.org/showfile.html?file=/pub/openmamba/devel/specs/ocaml-soundtouch.spec
